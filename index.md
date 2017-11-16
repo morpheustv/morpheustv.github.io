@@ -1,10 +1,43 @@
-# Morpheus TV
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-Keep track of your movies and tvshows using Trakt.tv.
-Designed for TV and Dpad navigation.
+<!-- Begin Jekyll SEO tag v2.3.0 -->
+<title>Morpheus TV | morpheustv.github.io</title>
+<meta property="og:title" content="Morpheus TV" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://morpheustv.github.io/" />
+<meta property="og:url" content="https://morpheustv.github.io/" />
+<meta property="og:site_name" content="morpheustv.github.io" />
+<script type="application/ld+json">
+{"name":"morpheustv.github.io","description":null,"author":null,"@type":"WebSite","url":"https://morpheustv.github.io/","image":null,"publisher":null,"headline":"Morpheus TV","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-The author does not host or upload any of the content links returned by this service.
+    <link href="/assets/css/style.css?v=01e2ad964021404017d9558568e1346e39673190" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+        <h1><a href="https://morpheustv.github.io/">morpheustv.github.io</a></h1>
+      
+
+      <h1 id="morpheus-tv">Morpheus TV</h1>
+
+<p>Keep track of your movies and tvshows using Trakt.tv.
+Designed for TV and Dpad navigation.</p>
+
+<p>The author does not host or upload any of the content links returned by this service.
 All content is retrieved from third-party websites like Trakt, TMDB, SeriesOnline, 123MoviesHD, CartoonHD and Flixanity.
-The author does not have any affiliation with the content providers and is not responsible for the content they provide.
+The author does not have any affiliation with the content providers and is not responsible for the content they provide.</p>
 
-<a href="https://morpheus-tv.aptoide.pt/?utm_source=developer&utm_medium=badge&utm_campaign=partner-embed"><img width="179px" alt="Android app on Aptoide" src="https://cdn6.aptoide.com/includes/themes/2014/images/aptoide_badge.png?timestamp=timestamp=20171016a"></a>
+<p><a href="https://morpheus-tv.aptoide.pt/?utm_source=developer&amp;utm_medium=badge&amp;utm_campaign=partner-embed"><img width="179px" alt="Android app on Aptoide" src="https://cdn6.aptoide.com/includes/themes/2014/images/aptoide_badge.png?timestamp=timestamp=20171016a" /></a></p>
+
+
+      
+    </div>
+    <script src="/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

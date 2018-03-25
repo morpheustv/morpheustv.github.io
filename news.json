@@ -6,6 +6,24 @@
       "IMPORTANT":true,
       "TITLE":"About Morpheus TV",
       "CONTENT":"MorpheusTV is a free app that searches websites for streaming links.\r\n\r\nAll links are available to the public in their respective websites and are hosted by third-party services like Openload, Streamango, Google, TheVideo, Vidup, Vidoza, etc..\r\n\r\nThe app can automatically download subtitles for movies and tv shows which are provided by third-party websites like Opensubtitles, LegendasDivx and TVSubs.\r\n\r\nThe author does not host or upload any of the content of the app. \r\nAll content is retrieved from third-party websites like Trakt.tv, TMDB, Imdb, SeriesOnline, 123MoviesHD, CartoonHD, Flixanity, Alluc, etc... \r\nThe author does not have any affiliation with the content providers and is not responsible for the content they provide."    
+    },
+    {
+      "ID":"2",
+      "IMPORTANT":false,
+      "TITLE":"About Torrents",
+      "CONTENT":"You can watch torrent streams directly on Morpheus TV without downloading them previously.\r\nTorrents will also be casted to Chromecast devices by using an internal HTTP server which will stream the file directly to the device.\r\n\r\nTorrents are disabled by default and to avoid any legal issues in your country you should use a VPN service while torrenting.\r\n\r\nTorrent integration for now is limited to just a few providers like RARBG, YTS.AG and EZTV.\r\n\r\nAfter selectiing a torrent source, some metadata will be downloaded which includes the first and last pieces of the video file and this process can take a few seconds or minutes depending on the speed of your connection, the file size and the amount of peers currently sharing the file."    
+    },
+    {
+      "ID":"3",
+      "IMPORTANT":false,
+      "TITLE":"About Downloads",
+      "CONTENT":"Morpheus TV allows you to download the sources to watch later.\r\nThis is a great option if you have a slow internet or suffer from alot of buffering because you can just download the file and watch it later.\r\n\r\nBefore downloading, make sure you have enough free space on the device.\r\n\r\nTo download, just long click (or context menu button) on one of the sources, a movie or episode and a dialog will popup with an option to download.\r\n\r\nAfter adding a file to the download queue, you can check its status in the downloads section of the main menu or click the download icon on the top right corner of the screen.\r\n\r\nYou can pause, cancel, set priorities of your downloads by long tapping (or context menu) a download and selecting the appropriate action from the popup dialog."    
+    },
+    {
+      "ID":"4",
+      "IMPORTANT":false,
+      "TITLE":"About Casting",
+      "CONTENT":"Morpheus TV integrates with Google Cast and allows you to stream your sources and torrents to those devices.\r\n\r\nAfter clicking the cast icon on the top right corner of the screen and selecting your device, any stream will by played on it instead of the internal player.\r\n\r\nAn internal HTTP server is used to help serve files to the device.\r\nSubtitles will always be served by this server and for some video files that refuse to play directly (like HLS streams) it will also serve as a proxy to resolve common problems like CORS, invalid cookies, etc..."    
     }  
   ]
 }

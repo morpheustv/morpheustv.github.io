@@ -4,8 +4,8 @@
     {
       "ID":"1",
       "IMPORTANT":true,
-      "TITLE":"Important Message",
-      "CONTENT":"Listen very carefully, I shall say this only once. \r\n\r\nYou suck..."    
+      "TITLE":"About Morpheus TV",
+      "CONTENT":"MorpheusTV is a free app that searches websites for streaming links.\r\n\r\nAll links are available to the public in their respective websites and are hosted by third-party services like Openload, Streamango, Google, TheVideo, Vidup, Vidoza, etc..\r\n\r\nThe app can automatically download subtitles for movies and tv shows which are provided by third-party websites like Opensubtitles, LegendasDivx and TVSubs.\r\n\r\nThe author does not host or upload any of the content of the app. \r\nAll content is retrieved from third-party websites like Trakt.tv, TMDB, Imdb, SeriesOnline, 123MoviesHD, CartoonHD, Flixanity, Alluc, etc... \r\nThe author does not have any affiliation with the content providers and is not responsible for the content they provide."    
     }  
   ]
 }

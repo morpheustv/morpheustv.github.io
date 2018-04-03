@@ -23,7 +23,7 @@
       "ID":"4",
       "IMPORTANT":false,
       "TITLE":"About Casting",
-      "CONTENT":"Morpheus TV integrates with Google Cast and allows you to stream your sources and torrents to those devices.\r\n\r\nAfter clicking the cast icon on the top right corner of the screen and selecting your device, any stream will by played on it instead of the internal player.\r\n\r\nAn internal HTTP server is used to help serve files to the device.\r\nSubtitles will always be served by this server and for some video files that refuse to play directly (like HLS streams) it will also serve as a proxy to resolve common problems like CORS, invalid cookies, etc..."    
+      "CONTENT":"Morpheus TV integrates with Google Cast and allows you to stream your sources and torrents to those devices.\r\n\r\nAfter clicking the cast icon on the top right corner of the screen and selecting your device, any stream will by played on it instead of the internal player.\r\n\r\nAn internal HTTP server is used to help serve files to the device.\r\nSubtitles will always be served by this server and for some video files that refuse to play directly (like HLS streams) it will also serve as a proxy to resolve common problems like CORS, invalid cookies, etc...\r\n\r\nIf you plan to use this app mainly for casting, it is recommended to enable the main notification in the settings.\r\nThis notification is used to keep the foreground service alive and responding to requests from the Chromecast while your phone is locked."    
     },
     {
       "ID":"5",

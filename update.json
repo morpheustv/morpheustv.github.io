@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.49",
-      "vercode":49,
-      "path":"http://pool.apk.aptoide.com/morpheustvstore/com-android-morpheustv-48-36488006-1ef5441e90cc44777861472c9717cf52.apk"
+      "vername":"1.51b1",
+      "vercode":51,
+      "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/1.51beta1/app-release.apk"
     },
     "media":{
-      "news":"v1.48\r\n- Fix playback resuming which was broken in v1.47 due to the ExoPlayer update.\r\n\r\nv1.47\r\n- Updated providers.\r\n- Updated ExoPlayer to v2.7.3\r\n- Improved player error handling.\r\n- New option to enable reCaptcha solving for some websites (disabled by default).\r\n\r\nv1.46\r\n- Attempt to fix crashes from screen orientation changes.\r\n- Add \"Play with\" option for sources(long click to display dialog).\r\n- Add \"Copy URL\" option for sources(long click to display dialog).\r\n- Minor tweaks on some providers."
+      "news":"v1.51beta1"
     }
   }
 }

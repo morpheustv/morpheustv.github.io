@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.51b1",
+      "vername":"1.51",
       "vercode":51,
-      "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/1.51beta1/app-release.apk"
+      "path":""
     },
     "media":{
-      "news":"v1.51beta1"
+      "news":"Beta branch"
     }
   }
 }

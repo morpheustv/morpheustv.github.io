@@ -1,12 +1,20 @@
 {
   "data":{
     "file":{
-      "vername":"1.52",
+      "vername":"1.52 beta1",
       "vercode":52,
-      "path":"asdf"
+      "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/v1.52-beta1/app-release.apk"
     },
     "media":{
-      "news":"Beta branch"
+      "news":"
+
+v1.52-beta1 change log :
+
+    Updated providers.
+    New persistent cache system for images and backdrops.
+    New homescreen shortcut for "Watch Next" episodes.
+
+"
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "data":{
     "file":{
-      "vername":"1.52 beta1",
-      "vercode":52,
-      "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/v1.52-beta1/app-release.apk"
+      "vername":"1.52 beta2",
+      "vercode":53,
+      "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/1.52beta/app-release.apk"
     },
     "media":{
       "news":"-Updated providers.\n-New persistent cache system for images and backdrops.\n-New homescreen shortcut for \"Watch Next\" episodes."

@@ -3,7 +3,7 @@
     "file":{
       "vername":"1.56 beta",
       "vercode":58,
-      "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/1.52beta/morpheustv_beta_156b58.apk"
+      "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/latest/morpheustv_beta_156b58.apk"
     },
     "media":{
       "news":"- Fix IceFilms.\n-Updated internal libraries.\nTargeting Android 9.0 (API 28)."

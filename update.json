@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.52 beta2",
-      "vercode":53,
+      "vername":"1.56 beta",
+      "vercode":58,
       "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/1.52beta/app-release.apk"
     },
     "media":{
-      "news":"-Updated providers.\n-New persistent cache system for images and backdrops.\n-New homescreen shortcut for \"Watch Next\" episodes."
+      "news":"- Fix IceFilms.\n-Updated internal libraries.\nTargeting Android 9.0 (API 28)."
     }
   }
 }

@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.0",
-      "vercode":1,
-      "path":""
+      "vername":"1.56 beta2",
+      "vercode":59,
+      "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/beta/app_release.apk"
     },
     "media":{
-      "news":""
+      "news":"- Updated providers.\n-Updated internal libraries.\nTargeting Android 9.0 (API 28)."
     }
   }
 }

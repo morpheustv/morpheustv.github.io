@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.59 beta1",
-      "vercode":63,
-      "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/beta/app_release.apk"
+      "vername":"1.59",
+      "vercode":64,
+      "path":"http://pool.apk.aptoide.com/morpheustvstore/com-android-morpheustv-64-39143437-870146d0a31957e074707af83ffd2f32.apk"
     },
     "media":{
-      "news":"Better stream quality identification on some resolvers."
+      "news":"- Better stream quality identification on some resolvers.\nNew providers."
     }
   }
 }

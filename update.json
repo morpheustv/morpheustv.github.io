@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.59",
-      "vercode":64,
-      "path":"http://pool.apk.aptoide.com/morpheustvstore/com-android-morpheustv-64-39143437-870146d0a31957e074707af83ffd2f32.apk"
+      "vername":"1.61",
+      "vercode":67,
+      "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/final/app-release.apk"
     },
     "media":{
-      "news":"- Better stream quality identification on some resolvers.\nNew providers."
+      "news":"New AutoPlay feature which allows the app to automatically select the best source according to your settings of preferred quality and host.\nAutoPlay settings are separated between Movies and TV-Shows.\n\nThis feature is an attempt to improve the user experience for those that do not wish to bother with manual source selection and is still experimental."
     }
   }
 }

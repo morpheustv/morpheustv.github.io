@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.61",
-      "vercode":67,
+      "vername":"1.63",
+      "vercode":69,
       "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/final/app-release.apk"
     },
     "media":{
-      "news":"New AutoPlay feature which allows the app to automatically select the best source according to your settings of preferred quality and host.\nAutoPlay settings are separated between Movies and TV-Shows.\n\nThis feature is an attempt to improve the user experience for those that do not wish to bother with manual source selection and is still experimental."
+      "news":"- Updated providers.\n- New options for AutoPlay."
     }
   }
 }

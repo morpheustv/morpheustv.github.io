@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.64_b2",
-      "vercode":71,
+      "vername":"1.64_b3",
+      "vercode":72,
       "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/beta/app-release.apk"
     },
     "media":{
-      "news":"Updated providers."
+      "news":"Improved subtitle selection in the video player."
     }
   }
 }

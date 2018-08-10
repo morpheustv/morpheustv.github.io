@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.63",
-      "vercode":69,
+      "vername":"1.64",
+      "vercode":75,
       "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/final/app-release.apk"
     },
     "media":{
-      "news":"- Updated providers.\n- New options for AutoPlay."
+      "news":"- Updated providers.\n- New option to change video scaling mode.\n- New option to sync subtitles.\n- Improved subtitle selection UI in video player."
     }
   }
 }

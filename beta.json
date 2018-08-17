@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.65 beta2",
-      "vercode":77,
+      "vername":"1.66 beta1",
+      "vercode":79,
       "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/beta/app-release.apk"
     },
     "media":{
-      "news":"-Updated providers.\n- Improved player UX.\n- Reduced resources size."
+      "news":"- Voice search is now available."
     }
   }
 }

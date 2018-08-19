@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.65",
-      "vercode":78,
+      "vername":"1.66",
+      "vercode":82,
       "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/final/app-release.apk"
     },
     "media":{
-      "news":"- Updated providers.\n- Improved user experience in the video player.\n- Improved subtitle selection UI."
+      "news":"- Add voice search for movies and tvshows."
     }
   }
 }

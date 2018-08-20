@@ -5,7 +5,7 @@
       "ID":"1",
       "IMPORTANT":true,
       "TITLE":"Disclaimer",
-      "CONTENT":"The author does not host or upload any of the content of the app. \r\nAll content is retrieved from third-party websites like Trakt.tv, TMDB, Imdb,Openload, Streamango, Google, TheVideo, Vidup, Vidoza, etc..\r\nThe author does not have any affiliation with the content providers and is not responsible for the content they provide.\r\n\r\nTo know more about the app, check the \"Information\" section on the main menu.\r\n"    
+      "CONTENT":"The author does not host or upload any of the content of the app. \r\n\r\nAll content is retrieved from third-party websites like Trakt.tv, TMDB, Imdb,Openload, Streamango, Google, TheVideo, Vidup, Vidoza, etc..\r\n\r\nThe author does not have any affiliation with the content providers and is not responsible for the content they provide.\r\n\r\nTo know more about the app, check the \"Information\" section on the main menu.\r\n"    
     },
     {
       "ID":"2",
@@ -33,9 +33,15 @@
     },
     {
       "ID":"6",
-      "IMPORTANT":true,
+      "IMPORTANT":false,
       "TITLE":"About Support",
       "CONTENT":"Morpheus TV is an hobby project developed by a single developer with limited time and I will not provide any support channels for users.\r\n\r\nThere are NO official websites, sub-reddits or facebook groups.\r\nBeware of websites that claim to be \"official\" because they are not and you might end up installing an APK loaded with malware.\r\n\r\nAptoide is the only safe place to download the official APK."    
+    },
+    {
+      "ID":"7",
+      "IMPORTANT":false,
+      "TITLE":"The End of Morpheus",
+      "CONTENT":"I am sorry to announce that Morpheus TV will have no more updates after version 1.66.\r\n\r\nThis project was created with the intention of being used by a small group of people and was published in the Aptoide store for convenience because it facilitated distribution to the people it was developed for. \r\n\r\nThe app was never promoted on social media and it was supposed to be kept under the radar but some youtubers found it and started making videos and promoting the app by themselves.\r\nAt first, it did not bother me much because I thought people would eventually lose interest and keep using whatever apps they used before, but I was mistaken and should have end this months ago.\r\nThere are now thousands of users using Morpheus and that draws too much unwanted attention and the providers scraped by the app are being hammered with too many requests that wastes their server resources.\r\n\r\nSo I decided to pull the plug.\r\nThe app will continue working but the amout of sources will reduce gradually with time because of the lack of scraper maintenance.\r\n\r\nThe project is going to be rebranded and development will continue under a new name and application_id.\r\nDistribution will be restricted to a small group of individuals and hidden from public eyes like it was supposed to be.\r\n\r\n"    
     }  
   ]
 }
